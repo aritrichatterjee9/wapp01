@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+Deployed in Vercel: https://wapp01.vercel.app/
+![image](https://github.com/aritrichatterjee9/wapp01/assets/73156770/61b4bfbc-8ed7-43b9-ad29-d34aa420f2db)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
